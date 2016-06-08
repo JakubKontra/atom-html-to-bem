@@ -12,7 +12,7 @@ Download package and install
 
 Select some Html BEM component from your file. For example:
 
-``` yaml
+``` html
 <section class="hello hello--world">
   <h1 class="hello__heading">Hello World</h1>
   <p class="hello__paragraph">
@@ -24,7 +24,7 @@ Select some Html BEM component from your file. For example:
 
 And then type
 
-``` yaml
+``` css
 html-to-bem:run
 ```
 
