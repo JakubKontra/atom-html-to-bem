@@ -6,7 +6,7 @@ An Atom.io editor plugin package
 
 
 ## Roadmap
-- Split code editor view and generate new block css file 
+- Split code editor view and generate new block css file
 - Settings: LESS & SASS FOrmat
 - Settings: Insert below or new file option
 - **DONE** |  Add notifications for better UX.
@@ -31,36 +31,36 @@ Select some Html BEM component from your file. For example:
 
 And then type
 
-``` css
+``` yaml
 html-to-bem:run
 ```
 
-command and You will get your BEM CSS stylesheets below:
+command and your BEM CSS stylesheets will be saved into your clipboard. You can paste them into new css file.
 
-``` yaml
+``` css
 
-.hello { 
+.hello {
 
-} 
- 
-.hello--world { 
+}
 
-} 
- 
-.hello__heading { 
+.hello--world {
 
-} 
- 
-.hello__paragraph { 
+}
 
-} 
- 
-.hello__link { 
+.hello__heading {
 
-} 
- 
-.hello__link--cta { 
+}
 
-} 
- 
+.hello__paragraph {
+
+}
+
+.hello__link {
+
+}
+
+.hello__link--cta {
+
+}
+
 ```
