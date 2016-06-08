@@ -7,6 +7,8 @@ An Atom.io editor plugin package
 
 ## Roadmap
 - Split code editor view and generate new block css file 
+- Settings: LESS & SASS FOrmat
+- Settings: Insert below or new file option
 - **DONE** |  Add notifications for better UX.
 
 ##Installation
