@@ -4,6 +4,10 @@
 # html-to-bem package
 An Atom.io editor plugin package
 
+
+## Roadmap
+- Split code editor view and generate new block css file
+
 ##Installation
 Download package and install
 
