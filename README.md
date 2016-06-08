@@ -6,7 +6,8 @@ An Atom.io editor plugin package
 
 
 ## Roadmap
-- Split code editor view and generate new block css file
+- Split code editor view and generate new block css file 
+- **DONE** |  Add notifications for better UX.
 
 ##Installation
 Download package and install
