@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Run html-to-bem",
+        "command": "html-to-bem:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "html-to-bem",
+          "submenu": [
+            {
+              "label": "Run",
+              "command": "html-to-bem:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
