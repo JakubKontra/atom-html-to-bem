@@ -1,4 +1,5 @@
 # html-to-bem package
+### Not stable repository. Work in progress
 
 Html BEM Component stylesheets generator
 
